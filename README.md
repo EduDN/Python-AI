@@ -1,2 +1,2 @@
 # CursoPython
-Si buscas aprender Python, puedes checar esto - Google Colab.🐍👨🏻‍💻
+Si buscas aprender Python, here it is! - Google Colab.🐍👨🏻‍💻
