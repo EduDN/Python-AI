@@ -28,7 +28,7 @@
 
 <div align="justify">  
   <h2>About this course!</h2>
-  <img align="right" src="https://i.ytimg.com/vi/qNSd1rkNlR0/maxresdefault.jpg" width=320>
+  <img align="right" src="https://i.ytimg.com/vi/qNSd1rkNlR0/maxresdefault.jpg" width=320 height=200>
   <p>Welcome to this Python course, If you want to become a Python expert, you've come to the right place! The course is designed to provide you with a comprehensive understanding of Python, covering essential topics that form the backbone of programming and extend to advanced applications in data science, data visualization, machine learning, and deep learning. This course is not just about learning syntax; it's about understanding the principles and applying them to real-world scenarios. Python is a versatile language, and as you progress through these topics, you'll gain the skills to tackle diverse challenges.</p>
 </div>
 
