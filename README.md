@@ -11,7 +11,7 @@
 <div>
   <h2> Table of Contents </h2>
   
-  <p>🐍 <a href="#"> About this course!</a></p> 
+  <p>🐍 <a href="#about-this-course"> About this course!</a></p> 
   <p>🐍 <a href="#"> Preparing the environment</a></p>
   <p>🐍 <a href="#"> Basics</a></p>
   <p>🐍 <a href="#"> Conditionals</a></p>
