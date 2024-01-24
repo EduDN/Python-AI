@@ -16,9 +16,8 @@
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/blob/main/Tema00.ipynb"> About Google Colaboratory</a></p>
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/01-basics"> Basics</a></p>
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/02-conditionals"> Conditionals</a></p>
-  <p>🐍 <a href="#"> Data structures</a></p>
   <p>🐍 <a href="#"> Loops</a></p>
-  <p>🐍 <a href="#"> Functions</a></p>
+  <p>🐍 <a href="#"> Data structures</a></p>
   <p>🐍 <a href="#"> POO</a></p>
   <p>🐍 <a href="#"> Data Science with Python</a></p>
   <p>🐍 <a href="#"> Data Visualization</a></p>
