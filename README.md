@@ -14,7 +14,7 @@
   <p>🐍 <a href="#about-this-course"> About this course!</a></p> 
   <p>🐍 <a href="#preparing-the-environment"> Preparing the environment</a></p>
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/blob/main/Tema00.ipynb"> About Google Colaboratory</a></p>
-  <p>🐍 <a href="#"> Basics</a></p>
+  <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/01-basics"> Basics</a></p>
   <p>🐍 <a href="#"> Conditionals</a></p>
   <p>🐍 <a href="#"> Data structures</a></p>
   <p>🐍 <a href="#"> Loops</a></p>
