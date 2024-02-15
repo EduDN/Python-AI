@@ -20,6 +20,7 @@
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/04%20-%20Data%20structures"> Data structures</a></p>
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/08%20-%20POO"> POO</a></p>
   <p>🐍 <a href="https://github.com/EduDN/Python-AI/tree/main/Temas/09-%20Data%20Science"> Data Science with Python</a></p>
+  <p>🐍 <a href="#"> NLP Natural Language Processing</a></p>
   <p>🐍 <a href="#"> Data Visualization</a></p>
   <p>🐍 <a href="#"> Machine Learning</a></p>
   <p>🐍 <a href="#"> Deep Learning</a></p>
